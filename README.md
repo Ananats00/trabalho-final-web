@@ -1,7 +1,7 @@
 # trabalho-final-web
 Trabalho final da disciplina de WEB
 
-# Nome_da_Equipe
+# Milk
 
 ### Integrantes
 [comment]: <> (oque aqui o nome completo, em ordem alfabética, 
